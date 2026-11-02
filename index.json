@@ -1,83 +1,83 @@
 {
- "version": "2026-11-02.2013",
- "generated_at": "2026-11-02T20:13:14.533319+00:00",
+ "version": "2026-11-02.2244",
+ "generated_at": "2026-11-02T22:44:08.901369+00:00",
  "provinces": {
   "AB": {
    "count": 2073,
-   "live": 54,
-   "new": 2019,
+   "live": 0,
+   "new": 2073,
    "file": "provinces/AB.json"
   },
   "BC": {
    "count": 4752,
-   "live": 84,
-   "new": 4668,
+   "live": 0,
+   "new": 4752,
    "file": "provinces/BC.json"
   },
   "MB": {
    "count": 483,
-   "live": 21,
-   "new": 462,
+   "live": 0,
+   "new": 483,
    "file": "provinces/MB.json"
   },
   "NB": {
    "count": 332,
-   "live": 13,
-   "new": 319,
+   "live": 0,
+   "new": 332,
    "file": "provinces/NB.json"
   },
   "NL": {
    "count": 260,
-   "live": 22,
-   "new": 238,
+   "live": 0,
+   "new": 260,
    "file": "provinces/NL.json"
   },
   "NS": {
    "count": 796,
-   "live": 23,
-   "new": 773,
+   "live": 0,
+   "new": 796,
    "file": "provinces/NS.json"
   },
   "NT": {
    "count": 87,
-   "live": 13,
-   "new": 74,
+   "live": 0,
+   "new": 87,
    "file": "provinces/NT.json"
   },
   "NU": {
    "count": 181,
-   "live": 16,
-   "new": 165,
+   "live": 0,
+   "new": 181,
    "file": "provinces/NU.json"
   },
   "ON": {
    "count": 5974,
-   "live": 153,
-   "new": 5821,
+   "live": 0,
+   "new": 5974,
    "file": "provinces/ON.json"
   },
   "PE": {
    "count": 171,
-   "live": 8,
-   "new": 163,
+   "live": 0,
+   "new": 171,
    "file": "provinces/PE.json"
   },
   "QC": {
    "count": 4247,
-   "live": 120,
-   "new": 4127,
+   "live": 242,
+   "new": 4005,
    "file": "provinces/QC.json"
   },
   "SK": {
    "count": 317,
-   "live": 19,
-   "new": 298,
+   "live": 0,
+   "new": 317,
    "file": "provinces/SK.json"
   },
   "YT": {
    "count": 94,
-   "live": 15,
-   "new": 79,
+   "live": 0,
+   "new": 94,
    "file": "provinces/YT.json"
   }
  }
