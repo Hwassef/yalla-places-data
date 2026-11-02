@@ -1,5 +1,5 @@
 {
- "version": "2026-11-02.2244",
+ "version": "2026-11-02.2244b",
  "generated_at": "2026-11-02T22:44:08.901369+00:00",
  "provinces": {
   "AB": {
@@ -63,9 +63,9 @@
    "file": "provinces/PE.json"
   },
   "QC": {
-   "count": 4247,
+   "count": 4241,
    "live": 242,
-   "new": 4005,
+   "new": 3999,
    "file": "provinces/QC.json"
   },
   "SK": {
